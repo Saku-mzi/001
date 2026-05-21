@@ -1,0 +1,22 @@
+.image {
+    border-radius: 20px;
+}
+
+.mainButton {
+    background-color: #7aa542;
+    border: none;
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+    font-size: 10px;
+    border-radius: 5px;
+}
+.bioButton {
+    background-color: #7aa542;
+    border: none;
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+    font-size: 10px;
+    border-radius: 5px;
+}

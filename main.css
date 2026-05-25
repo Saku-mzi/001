@@ -4,7 +4,7 @@
 
 .kiwiBody{
   color: beige;
-  font-family: helvetica;
+  font-family: Arial, Helvetica, sans-serif;
   text-size-adjust: 100%;
 }
 
@@ -29,7 +29,7 @@
   padding-right: 2%;
   padding-top: 1.5%;
   padding-bottom: 1.5%;
-  font-family: helvetica;
+  font-family: Arial, Helvetica, sans-serif;
   background-color: rgb(79, 119, 66);
   border: none;
   border-radius: 5px;
@@ -54,7 +54,7 @@
 
 .bioHeading{
   color: beige;
-  font-family: helvetica;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 60%;
   margin-top: 5%;
   margin-bottom: 5%;

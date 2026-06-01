@@ -1,111 +1,22 @@
-.kiwiBody {
-  color: beige;
-  font-family: helvetica;
-  text-size-adjust: 100%;
-  background-color: rgb(54, 83, 45);
+.image {
+  border-radius: 20px;
 }
 
-.heading {
-  text-align: left;
-  display: block;
-  margin: 0 4.5px;
-}
-.fruitsBtn {
-  text-align: right;
-  display: block;
-  margin: 0 4.5px;
-}
-#handb {
-  display: grid;
-  grid-template-rows: 20%;
-  text-align: center;
-}
-
-.image,
-.image2,
-.image3 {
-  border-radius: 5%;
-  margin-top: 5%;
-  margin-bottom: 5%;
-  opacity: 100%;
-  transition: transform 1s ease-in-out;
-}
-.image:hover,
-.image2:hover,
-.image3:hover {
-  transform: scale(1.5);
-  transition-delay: 0.5s;
+.mainButton {
+  background-color: #7aa542;
+  border: none;
+  padding: 10px 20px;
+  margin-right: 10px;
+  cursor: pointer;
+  font-size: 10px;
+  border-radius: 5px;
 }
 .bioButton {
-  color: beige;
-  padding-left: 2%;
-  padding-right: 2%;
-  padding-top: 1.5%;
-  padding-bottom: 1.5%;
-  font-family: helvetica;
-  background-color: rgb(79, 119, 66);
+  background-color: #7aa542;
   border: none;
-  border-radius: 5px;
+  padding: 10px 20px;
+  margin-right: 10px;
   cursor: pointer;
-  transition: opacity 0.3s;
-}
-.bioButton:hover {
-  opacity: 70%;
-  transform: scale(110%);
-}
-.bioButton:active {
-  opacity: 35%;
-}
-
-.bioPage {
-  background-color: rgb(54, 83, 45);
-}
-
-.bioHeading {
-  color: beige;
-  font-family: helvetica;
-  font-size: 60%;
-  margin-top: 5%;
-  margin-bottom: 5%;
-  margin-left: 15%;
-  margin-right: 15%;
-}
-
-.backButton {
-  color: beige;
-  padding-left: 2%;
-  padding-right: 2%;
-  padding-top: 1.5%;
-  padding-bottom: 1.5%;
-  background-color: rgb(79, 119, 66);
-  border: none;
+  font-size: 10px;
   border-radius: 5px;
-  cursor: pointer;
-  transition: opacity 0.3s;
-}
-.backButton:hover {
-  opacity: 70%;
-}
-.backButton:active {
-  opacity: 35%;
-}
-
-#gal-con {
-  max-width: fit-content;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
-  column-gap: 2rem;
-  row-gap: 0;
-  margin: auto;
-  text-align: center;
-}
-.P7 {
-  max-width: 190px;
-  text-align: center;
-  margin: auto;
-}
-.kiwitxt {
-  margin: auto;
-  text-align: center;
 }
